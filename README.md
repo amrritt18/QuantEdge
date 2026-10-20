@@ -105,6 +105,3 @@ uv run ruff format --check .
 
 The project includes automated tests for return analytics, trading signals, backtesting, risk metrics, and strategy comparison. Report only the test results and quality checks that you have actually run.
 
-## License
-
-Add a license before distributing the project under an open-source license.
