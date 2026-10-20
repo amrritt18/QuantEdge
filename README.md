@@ -51,7 +51,7 @@ QuantEdge/
 Install Python 3.12 and uv, then clone the repository and navigate into it.
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <amrritt18>
 cd QuantEdge
 uv sync
 ```
